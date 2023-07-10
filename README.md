@@ -24,4 +24,4 @@ Other_Sales - Sales in the rest of the world (in millions)
 
 Global_Sales - Total worldwide sales.
 
-Tableau Link - https://public.tableau.com/app/profile/mohamed.faizal.baseer.m/viz/VideoGamesAnalysisProject/Dashboard1
+Tableau Link - https://public.tableau.com/views/VideoGamesAnalysisProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
